@@ -11,7 +11,7 @@ Alternatively, if you want to use your images instead of ones comes with this re
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) installed.
 ### Fork and clone this repository to your local machine.
 ```
-https://github.com/irwanmazlin/object_detection_demo
+git clone https://github.com/irwanmazlin/object_detection_tensorflow_api.git
 ```
 ### Install required libraries
 `pip3 install -r requirements.txt`
